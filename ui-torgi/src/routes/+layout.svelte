@@ -18,7 +18,7 @@
 					O
 				</div>
 				<span class="text-lg font-bold tracking-tight text-stone-900">
-					Orange<span class="text-orange-500">Shop</span>
+					ABOBA<span class="text-orange-500">Shop</span>
 				</span>
 			</a>
 
