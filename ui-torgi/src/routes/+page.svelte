@@ -24,9 +24,9 @@
 <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-12">
 	<!-- 1. Отдельный блок для фото (Баннер) -->
 	<section class="w-full">
-		<div class="relative w-full h-[340px] sm:h-[420px] md:h-[480px] rounded-2xl bg-stone-200 border-2 border-dashed border-stone-300 flex flex-col items-center justify-center overflow-hidden group">
+		<div class="relative w-full h-[440px] sm:h-[420px] md:h-[520px] rounded-2xl bg-stone-200 border-2 border-dashed border-stone-300 flex flex-col items-center justify-center overflow-hidden group">
 			<!-- Плейсхолдер под фото -->
-			<div class="text-center p-6 space-y-3">
+			<!-- <div class="text-center p-6 space-y-3">
 				<div class="w-16 h-16 mx-auto rounded-full bg-stone-300/80 flex items-center justify-center text-stone-500 group-hover:bg-orange-500 group-hover:text-white transition">
 					<svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -36,11 +36,11 @@
 					<h3 class="text-lg font-bold text-stone-700">Место для главного баннера / фото</h3>
 					<p class="text-xs text-stone-500 mt-1">Здесь будет фоновое изображение или слайдер акций</p>
 				</div>
-			</div>
+			</div> -->
 
-			<!-- Когда будет готова картинка, замените содержимое div на:
-			<img src="/banner.jpg" alt="Главный баннер" class="w-full h-full object-cover" />
-			-->
+			
+			<img src="./src/lib/dogs.jpg" alt="Главный баннер" class="w-full h-full object-cover" />
+			
 		</div>
 	</section>
 
